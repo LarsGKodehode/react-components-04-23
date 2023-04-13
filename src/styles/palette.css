@@ -1,0 +1,11 @@
+.bright-theme {
+  --color-primary-500: #34DEED;
+
+  --color-secondary-500: rgb(52, 222, 237);
+}
+
+.dark-theme {
+  --color-primary-500: #194f54;
+
+  --color-secondary-500: rgb(52, 222, 237);
+}
